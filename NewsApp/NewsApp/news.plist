@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>NFL Prospect&apos;s painful end to 40-yard dash</string>
+		<string>http://l3.yimg.com/nn/fp/rsz/022613/images/smush/faceplant_635x250_1361913902.jpg</string>
+		<string>http://sports.yahoo.com/blogs/nfl-shutdown-corner/shamarko-thomas-falls-down-end-40-runs-unofficial-174454297--nfl.html</string>
+	</array>
+	<key>002</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>City in shock after two officers gunned down</string>
+		<string>http://l1.yimg.com/nn/fp/rsz/022713/images/smush/santacruz_635x250_1361968314.jpg</string>
+		<string>http://news.yahoo.com/2-police-officers-killed-calif-suspect-dead-092131846.html</string>
+	</array>
+	<key>003</key>
+	<array>
+		<string>clickable</string>
+		<string>video</string>
+		<string>Starcraft 2 Hearts of the Swarm coming soon!</string>
+		<string>http://www.youtube.com/embed/MVbeoSPqRs4</string>
+	</array>
+	<key>004</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Meet the new King of supercars</string>
+		<string>http://l2.yimg.com/nn/fp/rsz/022613/images/smush/mclaren1_635x250_1361901701.jpg</string>
+		<string>http://autos.yahoo.com/blogs/motoramic/mclaren-p1-claims-mantle-world-ultimate-supercar-now-143959081.html</string>
+	</array>
+	<key>005</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Android wins U.S. smartphone lead back from iOS</string>
+		<string>http://asset0.cbsistatic.com/cnwk.1d/i/tim/2013/02/25/35326378-2_3_610x435.jpg</string>
+		<string>http://news.cnet.com/8301-1035_3-57571072-94/android-wins-u.s-smartphone-lead-back-from-ios-says-report/</string>
+	</array>
+	<key>006</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Apple’s Passbook ticketing expanding to 14 MLB teams this year</string>
+		<string>http://cdn.slashgear.com/wp-content/uploads/2013/02/23094899_4jMKTW-45-580x387.jpeg</string>
+		<string>http://www.slashgear.com/apples-passbook-ticketing-expanding-to-14-mlb-teams-this-year-27271733/</string>
+	</array>
+	<key>007</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>New Apps and Updates! (9to5mac)</string>
+		<string>http://9to5mac.files.wordpress.com/2013/02/spotify-ios-app.jpg?w=252&amp;h=432</string>
+		<string>http://www.appolicious.com/tech/articles/13252-new-iphone-apps-worth-downloading-showscoop-concerts-mibblio-hell-yeah-pocket-inferno</string>
+	</array>
+	<key>008</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Google Glass offered for $16,000 on eBay</string>
+		<string>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/10/8/1349713883988/google-glass-prototype-20-008.jpg</string>
+		<string>http://www.guardian.co.uk/technology/2013/feb/27/google-glass-augmented-reality</string>
+	</array>
+	<key>009</key>
+	<array>
+		<string>clickable</string>
+		<string>video</string>
+		<string>Google unveiling glasses!</string>
+		<string>http://www.youtube.com/embed/v1uyQZNg2vE</string>
+	</array>
+	<key>010</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Code.org Video: You Know Coding Is Cool Because Zuckerberg, Gates, Will.i.am And Chris Bosh Say So</string>
+		<string>http://static01.mediaite.com/med/wp-content/uploads/2010/09/facebook-mark-zuckerberg.jpg</string>
+		<string>http://www.huffingtonpost.com/2013/02/27/code-org-video_n_2767453.html</string>
+	</array>
+	<key>011</key>
+	<array>
+		<string>clickable</string>
+		<string>video</string>
+		<string>Check out the leap motion!</string>
+		<string>http://www.youtube.com/embed/GXKindguPTI</string>
+	</array>
+	<key>012</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>U.S. Cellular adds Samsung 4G Galaxy Note 10.1 to its lineup</string>
+		<string>http://asset0.cbsistatic.com/cnwk.1d/i/tim/2013/02/27/us-cellular-note101.png</string>
+		<string>http://news.cnet.com/8301-1035_3-57571583-94/u.s-cellular-adds-samsung-4g-galaxy-note-10.1-to-its-lineup/</string>
+	</array>
+	<key>013</key>
+	<array>
+		<string>clickable</string>
+		<string>scrollableWebInCell</string>
+		<string>Virginia Tech Website</string>
+		<string>http://www.vt.edu/</string>
+	</array>
+	<key>014</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Apple Should Stay Prudent With Cash: Analyst</string>
+		<string>http://si.wsj.net/public/resources/images/MI-BT613_APPLEj_E_20130116175449.jpg</string>
+		<string>http://blogs.wsj.com/marketbeat/2013/02/27/apple-should-stay-prudent-with-cash-analyst/?mod=google_news_blog</string>
+	</array>
+	<key>015</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>5 Features we want from iWatch</string>
+		<string>http://i.telegraph.co.uk/multimedia/archive/02479/wirediwatch_2479472b.jpg</string>
+		<string>http://tech.fortune.cnn.com/2013/02/26/5-features-we-want-in-an-apple-iwatch/?section=money_topstories&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+rss%2Fmoney_topstories+(Top+Stories)</string>
+	</array>
+	<key>016</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>How kickstarter help win an oscar</string>
+		<string>http://s.wsj.net/public/resources/images/OB-WL948_fine_E_20130225074413.jpg</string>
+		<string>http://blogs.wsj.com/speakeasy/2013/02/25/how-kickstarter-helped-inocente-win-an-oscar/</string>
+	</array>
+	<key>017</key>
+	<array>
+		<string>clickable</string>
+		<string>video</string>
+		<string>Greatest Stanford speech ever..</string>
+		<string>http://www.youtube.com/embed/UF8uR6Z6KLc</string>
+	</array>
+	<key>018</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Boy&apos;s sweet gesture gets huge response</string>
+		<string>http://l4.yimg.com/nn/fp/rsz/022613/images/smush/sickfriend_635x250_1361897266.jpg</string>
+		<string>http://gma.yahoo.com/boy--7--raises-more-than--30-000-for-sick-friend-172958274.html</string>
+	</array>
+	<key>019</key>
+	<array>
+		<string>clickable</string>
+		<string>newsArticle</string>
+		<string>Can RG3 play?</string>
+		<string>http://nbcprofootballtalk.files.wordpress.com/2013/02/350x-233.jpg?w=250</string>
+		<string>http://profootballtalk.nbcsports.com/2013/02/24/source-says-its-ridiculous-to-talk-of-rg3-return-now/</string>
+	</array>
+</dict>
+</plist>
